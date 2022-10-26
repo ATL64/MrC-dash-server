@@ -2,6 +2,8 @@
 
 Developed in 2020 with Alejandro de Miquel https://github.com/alejandrodemiquel
 
+It was deprecated and replaced by the javascript frontend in the other repository for MrC
+
 This app is built with Dash, a Python framework to build elegant interactive dashboards for the web. 
 We also use a template to create a Docker image that uses Flask, Nginx, and uWSGI to serve the application.
 
