@@ -1,6 +1,6 @@
 ## Dash server for Biotech-MRC
 
-Currently accessible here: http://35.242.239.52
+Developed in 2020 with Alejandro de Miquel https://github.com/alejandrodemiquel
 
 This app is built with Dash, a Python framework to build elegant interactive dashboards for the web. 
 We also use a template to create a Docker image that uses Flask, Nginx, and uWSGI to serve the application.
